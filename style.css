@@ -1,0 +1,18 @@
+#container {
+	width: 800px;
+	margin: 0 auto;
+}
+
+#login, #registration {
+	display: inline-block;
+	vertical-align: top;
+	width: 48%;
+}
+
+label, input {
+	display: block;
+}
+
+p.error {
+	color: red;
+}
